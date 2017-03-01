@@ -9,3 +9,7 @@ Sie arbeiten an einem Computer, der systemd zur Initialisierung verwendet. Welch
 - systemctl isolate poweroff.target
 - sysctl isolate reboot.target
 - sysctl isolate poweroff.target
+
+## systemctl
+
+Mit Hilfe von systemctl können Befehle an systemd gesendet werden, z.B. zum Steuern von Units, zum Abfragen des Status, zum Herunterfahren des Systems etc.
