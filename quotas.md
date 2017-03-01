@@ -10,3 +10,6 @@ Sie haben Quotas auf den Festplatten eines Systems eingerichtet. Ein Benutzer fr
 - df
 - quotaon
 
+## df 
+
+Diehnt ausschließlich zur ermittlung des freien Speicherplatzes
