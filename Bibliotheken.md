@@ -1,4 +1,21 @@
 # LPCI
+
+Fragen zu Quotas
+
+Sie haben Quotas auf den Festplatten eines Systems eingerichtet. Ein Benutzer fragt Sie, wie er herausbekommen kann, wie viel Speicherplatz für ihn auf der Festplatte zur Verfügung steht. Welches Programm werden Sie dem Benutzer empfehlen? 
+
+- edquota
+- repquota
+- quota
+- df
+- quotaon
+
+## df 
+
+Diehnt ausschließlich zur ermittlung des freien Speicherplatzes
+
+
+# LPCI
 Stupid Questions
 
 Sie müssen einem Server eine Shellvariable hinzufügen. Diese Variable soll für alle Benutzer in jeder neu geöffneten Shell gültig sein, darf aber keine Neuanmeldung der Benutzer erfordern. In welcher der folgenden Konfigurationsdateien können Sie die neue Variable eintragen? 
