@@ -1,5 +1,16 @@
 # LPCI
 
+
+Sie beabsichtigen, ein Modul in den laufenden Kernel zu installieren. Leider wissen Sie nicht, ob das zu installierende Modul von anderen Modulen abhängt. Welches Kommando löst bei der Installation von Modulen die Abhängigkeiten automatisch auf? 
+
+- insmod –auto
+- autoinsmod
+- depmod
+- modprobe
+
+
+# LPCI
+
 Fragen zu Quotas
 
 Sie haben Quotas auf den Festplatten eines Systems eingerichtet. Ein Benutzer fragt Sie, wie er herausbekommen kann, wie viel Speicherplatz für ihn auf der Festplatte zur Verfügung steht. Welches Programm werden Sie dem Benutzer empfehlen? 
