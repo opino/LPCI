@@ -4,7 +4,8 @@ Fragen zu Systemd
 Sie arbeiten an einem Computer, der systemd zur Initialisierung verwendet. Welches der folgenden Kommandos ist geeignat, das System herunterzufahren?
 
 
-- ***[Answer 1][answersite]
-- ***[Answer 2][answersite]
-- ***[Answer 3][answersite]
-- ***[Etc][answersite]
+- systemctl isolate runlevel3.target
+- systemctl isolate reboot.target
+- systemctl isolate poweroff.target
+- sysctl isolate reboot.target
+- sysctl isolate poweroff.target
